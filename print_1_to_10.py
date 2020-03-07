@@ -32,18 +32,15 @@ for i in a:
 #         print"\n"
 #         i=i+1
 
-# for i in range(1,5):
-#         for j in i:
-#                 print i,
-
-#         print"\n"
 
 # name=["neha","aman","ekta","zeba","pragati"]
 # for i in name:
 #         for j in i:
 #                 print j
+
 # for i in range(10,-1,-1):
-#         print i        
+#         print i  
+
 # for i in range(1,9):
 #     for j in range(1,(i+1)):
 #         print j,
@@ -65,8 +62,4 @@ for i in a:
 #     else:
 #         print i
 
-# for i in range(1,5):
-#     for j in range(1,(i+1)):
-#         print j,
-#     print"\n"
 
