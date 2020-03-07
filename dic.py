@@ -28,7 +28,6 @@ for i in book:
     
 
 
-#here it will be print only values because here is not list between the dictionary
 book={"name":
 {"neha":"ekta",
 "zeba":"kajal"},
