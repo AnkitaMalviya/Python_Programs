@@ -25,12 +25,3 @@ while i<len(list):
 
 
 
-
-# a=[9,4,1,0,2,6,5,7]
-# for i in a:
-#     for j in range(1,(i-1)):
-#         if  i>a[j]:
-#             b=a[j]
-#             a[j]=i
-#             i=b
-#     print a 
