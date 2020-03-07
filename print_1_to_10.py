@@ -20,7 +20,7 @@ for i in a:
 # #                 print j
 
 # # for i in range(10):
-# #         print 
+# #         print(i)
 
 
 # i=1
