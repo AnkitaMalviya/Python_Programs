@@ -7,14 +7,12 @@ book={"name":
 "vggsavjsh":"dfyuerw"}]
 }
 print (len(book))
-j=0
 for i in book:
-   print (book [i][j]["surname"])
-   j=j+1
+   print (book[i][0]["surname"])
 
 
 
-# here it will be print only values because dictionary inside the list
+# here it will be print only values.
 book={"name":
 [{"neha":"ekta",
 "surname":"israni"}],
@@ -24,8 +22,10 @@ book={"name":
 "vggsavjsh":"dfyuerw"}]
 }
 print len(book)
+j=0
 for i in book:
-    print book[i][0]["neha"]
+    print book[i][j]["neha"]
+    
 
 
 #here it will be print only values because here is not list between the dictionary
